@@ -1,0 +1,1 @@
+export { registerForecastHandlers } from './combined'
