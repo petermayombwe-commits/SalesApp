@@ -1,1 +1,0 @@
-export { registerCreditHandlers } from './combined'
